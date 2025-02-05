@@ -137,6 +137,12 @@ Full Stack Developer | Lifelong Learner | Tech Enthusiast
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="vscode logo"  />
   <img width="10" />
   <img src="https://cdn.simpleicons.org/postman/FF6C37" height="30" alt="postman logo"  />
+  <img width="10" />
+  <img src="https://skillicons.dev/icons?i=github" height="30" alt="github logo"  />
+  <img width="10" />
+  <img src="https://cdn.simpleicons.org/netlify/00C7B7" height="30" alt="netlify logo"  />
+  <img width="10" />
+  <img src="https://skillicons.dev/icons?i=vercel" height="30" alt="vercel logo"  />
 </div>
 
 ###
