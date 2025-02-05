@@ -20,7 +20,7 @@ Full Stack Developer | Lifelong Learner | Tech Enthusiast
 
 😄 **Pronouns**: /ˈzɑːhɪd/
 ⚡ **Fun Fact**: Humble by nature, curious by choice.
-
+---
 ###
 
 <h2 align="left">I 💡 Think Clear. ✨ Code Clean. 🚀 Implement. 🌟 Innovate. 🔁 Repeat, by using ...</h2>
