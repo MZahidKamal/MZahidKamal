@@ -50,7 +50,7 @@
 
 ###
 
-https://github-profile-trophy.vercel.app/?username=MZahidKamal&theme=nord
+[![trophy](https://github-profile-trophy.vercel.app/?username=MZahidKamal&theme=nord)](https://github.com/MZahidKamal/github-profile-trophy)
 
 ###
 
