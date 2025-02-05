@@ -21,8 +21,6 @@
   <img width="10" />
   <img src="https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white&style=for-the-badge" height="30" alt="nodejs logo"  />
   <img width="10" />
-  <img src="https://img.shields.io/badge/Adobe After Effects-9999FF?logo=adobeaftereffects&logoColor=black&style=for-the-badge" height="30" alt="adobeaftereffects logo"  />
-  <img width="10" />
   <img src="https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white&style=for-the-badge" height="30" alt="cplusplus logo"  />
   <img width="10" />
   <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge" height="30" alt="mysql logo"  />
