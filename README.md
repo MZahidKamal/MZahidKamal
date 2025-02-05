@@ -50,11 +50,6 @@
 
 ###
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=MZahidKamal)](https://github.com/MZahidKamal/github-profile-trophy)
-
-###
-
-
 <br clear="both">
 
 <div align="center">
