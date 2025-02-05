@@ -5,7 +5,6 @@
 ###
 
 **Hi there 👋, I am Mohammad Zahid Kamal!**
-###Hi there 👋, I am Mohammad Zahid Kamal!  
 Full Stack Developer | Lifelong Learner | Tech Enthusiast  
 
 🎓 **Education**: M.Sc. in Media Technology from TU Ilmenau.  
