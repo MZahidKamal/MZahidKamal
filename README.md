@@ -50,6 +50,11 @@
 
 ###
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=MZahidKamal)](https://github.com/ryo-ma/github-profile-trophy)
+
+###
+
+
 <br clear="both">
 
 <div align="center">
