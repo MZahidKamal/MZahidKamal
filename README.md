@@ -50,6 +50,10 @@
 
 ###
 
+https://github-profile-trophy.vercel.app/?username=MZahidKamal&theme=nord
+
+###
+
 <br clear="both">
 
 <div align="center">
