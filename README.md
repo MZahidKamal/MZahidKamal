@@ -4,7 +4,7 @@
 
 ###
 
-<h2 align="left">💡 Think Clear. ✨ Code Clean. 🚀 Implement. 🌟 Innovate. 🔁 Repeat, using ...</h2>
+<h2 align="left">💡 Think Clear. ✨ Code Clean. 🚀 Implement. 🌟 Innovate. 🔁 Repeat, by using ...</h2>
 
 ###
 
