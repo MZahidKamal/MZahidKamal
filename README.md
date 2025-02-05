@@ -66,9 +66,9 @@ Full Stack Developer | Lifelong Learner | Tech Enthusiast
 📫 **Reach me through**:
 - Email: kamal.md.zahid@gmail.com
 - LinkedIn: [redirect to LinkedIn...](https://www.linkedin.com/in/md-zahid-kamal)
-- Resule: [redirect to Google drive...](https://drive.google.com/file/d/17bGe1KL8gRiWTHI_jKzCSmEP2ph7rhNN/view?usp=sharing)
+- Resume: [redirect to Google Drive...](https://drive.google.com/file/d/17bGe1KL8gRiWTHI_jKzCSmEP2ph7rhNN/view?usp=sharing)
 
-😄 **Pronouns**: Zahid
+😄 **Pronouns**: /ˈzɑːhɪd/
 ⚡ **Fun Fact**: Humble by nature, curious by choice.
 
 ###
