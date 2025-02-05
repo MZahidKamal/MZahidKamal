@@ -23,7 +23,7 @@ Full Stack Developer | Lifelong Learner | Tech Enthusiast
 
 ###
 
-<h2 align="left">💡 Think Clear. ✨ Code Clean. 🚀 Implement. 🌟 Innovate. 🔁 Repeat, by using ...</h2>
+<h2 align="left">I 💡 Think Clear. ✨ Code Clean. 🚀 Implement. 🌟 Innovate. 🔁 Repeat, by using ...</h2>
 
 ###
 
