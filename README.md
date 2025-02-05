@@ -69,7 +69,7 @@ Full Stack Developer | Lifelong Learner | Tech Enthusiast
 
 😄 **Pronouns**: Zahid  
 ⚡ **Fun Fact**: Humble by nature, curious by choice.  
-📝 **Resume**: [www.zahid.com](http://www.zahid.com)  
+📝 **Resume**: [redirect to Google drive...](https://drive.google.com/file/d/17bGe1KL8gRiWTHI_jKzCSmEP2ph7rhNN/view?usp=sharing)  
 
 ###
 
