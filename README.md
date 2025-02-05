@@ -4,6 +4,25 @@
 
 ###
 
+**Hi there 👋, I am Mohammad Zahid Kamal!**  
+Full Stack Developer | Lifelong Learner | Tech Enthusiast  
+
+🎓 **Education**: M.Sc. in Media Technology from TU Ilmenau.  
+💼 **Experience**: Transitioning into web development with a passion for building scalable and user-friendly applications.  
+🚀 **Skills**: JavaScript, React, Node.js, Python, Django, C, C++, MySQL, PostgreSQL, MongoDB, Firebase, TailwindCSS, HTML5 and CSS3.  
+🌱 **Interests**: Learning new technologies, driving, and spending quality time with family.  
+🔍 **Current Work**: Open to new opportunities and collaborations.  
+
+📫 **Reach me through**:
+- Email: kamal.md.zahid@gmail.com
+- LinkedIn: [redirect to LinkedIn...](https://www.linkedin.com/in/md-zahid-kamal)
+- Resume: [redirect to Google Drive...](https://drive.google.com/file/d/17bGe1KL8gRiWTHI_jKzCSmEP2ph7rhNN/view?usp=sharing)
+
+😄 **Pronouns**: /ˈzɑːhɪd/
+⚡ **Fun Fact**: Humble by nature, curious by choice.
+
+###
+
 <h2 align="left">💡 Think Clear. ✨ Code Clean. 🚀 Implement. 🌟 Innovate. 🔁 Repeat, by using ...</h2>
 
 ###
@@ -51,25 +70,6 @@
 ###
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=MZahidKamal&theme=nord)
-
-###
-
-**Hi there 👋, I am Mohammad Zahid Kamal!**  
-Full Stack Developer | Lifelong Learner | Tech Enthusiast  
-
-🎓 **Education**: M.Sc. in Media Technology from TU Ilmenau.  
-💼 **Experience**: Transitioning into web development with a passion for building scalable and user-friendly applications.  
-🚀 **Skills**: JavaScript, React, Node.js, Python, Django, C, C++, MySQL, PostgreSQL, MongoDB, Firebase, TailwindCSS, HTML5 and CSS3.  
-🌱 **Interests**: Learning new technologies, driving, and spending quality time with family.  
-🔍 **Current Work**: Open to new opportunities and collaborations.  
-
-📫 **Reach me through**:
-- Email: kamal.md.zahid@gmail.com
-- LinkedIn: [redirect to LinkedIn...](https://www.linkedin.com/in/md-zahid-kamal)
-- Resume: [redirect to Google Drive...](https://drive.google.com/file/d/17bGe1KL8gRiWTHI_jKzCSmEP2ph7rhNN/view?usp=sharing)
-
-😄 **Pronouns**: /ˈzɑːhɪd/
-⚡ **Fun Fact**: Humble by nature, curious by choice.
 
 ###
 
