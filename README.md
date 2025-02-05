@@ -13,7 +13,7 @@ Full Stack Developer | Lifelong Learner | Tech Enthusiast
 🌱 **Interests**: Learning new technologies, driving, and spending quality time with family.  
 🔍 **Current Work**: Open to new opportunities and collaborations.  
 
-📫 **I’m always open to discussing new projects, innovative ideas, or opportunities to collaborate and bring your visions to life. Feel free to reach out—let’s create something amazing together!**
+📫 **I’m always open to discussing new projects, innovative ideas, or opportunities to collaborate and bring new visions to life. To create something amazing together, feel free to reach out through:**
 - Email: kamal.md.zahid@gmail.com
 - LinkedIn: [redirect to LinkedIn...](https://www.linkedin.com/in/md-zahid-kamal)
 - Resume: [redirect to Google Drive...](https://drive.google.com/file/d/17bGe1KL8gRiWTHI_jKzCSmEP2ph7rhNN/view?usp=sharing)
