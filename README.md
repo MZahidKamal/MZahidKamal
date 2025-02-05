@@ -54,6 +54,26 @@
 
 ###
 
+**Hi there 👋, I am Mohammad Zahid Kamal!**  
+Full Stack Developer | Lifelong Learner | Tech Enthusiast  
+
+🎓 **Education**: M.Sc. in Media Technology from TU Ilmenau.  
+💼 **Experience**: Transitioning into web development with a passion for building scalable and user-friendly applications.  
+🚀 **Skills**: JavaScript, React, Node.js, Python, Django, C, C++, MySQL, PostgreSQL, MongoDB, Firebase, TailwindCSS, HTML5 and CSS3.  
+🌱 **Interests**: Learning new technologies, driving, and spending quality time with family.  
+🔍 **Current Work**: Open to new opportunities and collaborations.  
+
+📫 **How to reach me**:  
+- Email: kamal.md.zahid@gmail.com  
+- LinkedIn: [Your LinkedIn Profile]  
+
+😄 **Pronouns**: Zahid  
+⚡ **Fun Fact**: Humble by nature, curious by choice.  
+📝 **Resume**: [www.zahid.com](http://www.zahid.com)  
+
+###
+
+
 <br clear="both">
 
 <div align="center">
