@@ -15,7 +15,7 @@ Full Stack Developer | Lifelong Learner | Tech Enthusiast
 
 📫 **I’m always open to discussing new projects, innovative ideas, or opportunities to collaborate and bring new visions to life. To create something amazing together, feel free to reach out through:**
 - Email: kamal.md.zahid@gmail.com
-- Resume: [redirect to Google Drive...](https://drive.google.com/file/d/17bGe1KL8gRiWTHI_jKzCSmEP2ph7rhNN/view?usp=sharing)
+- Resume: [redirect to Google Drive...](https://drive.google.com/file/d/1Pj76UwppDmy4x9_4eaWBhzkwikYiGWiL/view?usp=sharing)
 - Portfolio: [redirect to Portfolio...](https://md-zahid-kamal.vercel.app)
 - LinkedIn: [redirect to LinkedIn...](https://www.linkedin.com/in/md-zahid-kamal)
 
