@@ -104,13 +104,6 @@ Seasoned professional turned software engineer — with **15+ years of business 
 ### GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MZahidKamal&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=1d9e75&icon_color=1d9e75&text_color=c9d1d9&rank_icon=github" height="160" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MZahidKamal&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=1d9e75&text_color=c9d1d9" height="160" alt="Top Languages" />
-</div>
-
-<br/>
-
-<div align="center">
   <img src="https://streak-stats.demolab.com?user=MZahidKamal&theme=tokyonight&hide_border=true&background=0d1117&ring=1d9e75&fire=185FA5&currStreakLabel=1d9e75&dates=c9d1d9&sideLabels=c9d1d9&currStreakNum=ffffff&sideNums=ffffff&stroke=0d1117" height="160" alt="GitHub Streak" />
 </div>
 
