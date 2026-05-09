@@ -119,7 +119,7 @@ Seasoned professional turned software engineer — with **15+ years of business 
 [![Email](https://img.shields.io/badge/kamal.md.zahid%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kamal.md.zahid@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/md-zahid-kamal)
 [![Portfolio](https://img.shields.io/badge/Portfolio-0F6E56?style=for-the-badge&logo=vercel&logoColor=white)](https://md-zahid-kamal.vercel.app)
-[![Resume](https://img.shields.io/badge/Resume-185FA5?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/1Pj76UwppDmy4x9_4eaWBhzkwikYiGWiL/view?usp=sharing)
+[![Resume](https://img.shields.io/badge/Resume-185FA5?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/drive/folders/1lcDP3c5yWHvbLApul4Cx1tc97BefLrj4)
 
 ---
 
